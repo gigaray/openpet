@@ -16,7 +16,7 @@ Loss of Privacy is when this flow of information is 'uncontrolled'
 - With Parento frontier 
 <img src="https://deeplearning.berlin/images/images/articles/2021-01-05-openmined-pt1/moving-the-privacy-transparency-pareto-tradeoff.png" alt="With Parento frontier" width="300"/>
 
-As shown above for the same amount of 'B' there is more 'A' (when compared to the 'Traditional'). Thus prviacy-transparency tradeoff - need not be a Zero sum game. Creating information flows within society that create social good.
+As shown above for the same amount of privacy 'B' there is more transparency that is closer to 'A' (comparing 'pareto frontier' to the 'traditional'). Thus prviacy-transparency tradeoff - need not be a Zero sum game. Creating information flows within society that create social good.
 
 ## 3 technical problems
 when addressed will take privacy-transaparency tradeoff in traditional realm to the realm of the pareto frontier
