@@ -10,3 +10,19 @@ All data exists but dont have records that match
 Use Case 02 : Money Laundering
 A bank cannot access most of the world's data  and put all the data in one place o follow the money
 
+Use Case 03 : Health
+Mammograms have an accuracy problem (1/4 th False/psotivie/ negative)
+Loads of data exists but not for training AI - It is a partnership problem (not tech or data problem)
+need to "answer questions using data we cant see"
+
+Other use cases in
+National Security
+Intelligence
+Disinformation
+Algorithmic Fairness
+
+Bring information to bear without centralising data
+
+Technology
+- Remote Execution
+- Search and Example Data
