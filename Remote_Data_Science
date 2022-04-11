@@ -26,3 +26,8 @@ Bring information to bear without centralising data
 Technology
 - Remote Execution
 - Search and Example Data
+- Differential Privacy
+- Secure MPC
+
+Differential privacy
+Goal: ensure statsitcal analysis doesnt compromise privacy
